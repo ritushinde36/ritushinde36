@@ -7,9 +7,6 @@
 - 💬 Blogging my experiences and learnings in tech here - https://ritushinde.hashnode.dev/
 - 🌸 Outside of tech, I love learning and practicing Holistic Health and Wellness
 
-
-<br>
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -38,6 +35,9 @@
 
 
 # 📊 GitHub Analytics:
+<a href="https://github.com/ritushinde36">
+  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app?user=ritushinde36&theme=radical&layout=compact"/>
+</a>
 <a href="https://github.com/ritushinde36">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushinde36&&theme=radical&hide_border=false&layout=compact&langs_count=8&card_width=300" />
 </a>
