@@ -39,6 +39,6 @@
   <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app?user=ritushinde36&theme=radical&layout=compact"/>
 </a>
 <a href="https://github.com/ritushinde36">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushinde36&&theme=radical&hide_border=false&layout=compact&langs_count=8&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushinde36&&theme=radical&hide_border=false&layout=compact&langs_count=8&card_width=100" />
 </a>
 
