@@ -33,12 +33,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-
-# 📊 GitHub Analytics:
-<a href="https://github.com/ritushinde36">
-  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app?user=ritushinde36&theme=radical&card_width=400"/>
-</a>
-<a href="https://github.com/ritushinde36">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushinde36&&theme=radical&hide_border=false&layout=compact&langs_count=8&card_width=300" />
-</a>
-
